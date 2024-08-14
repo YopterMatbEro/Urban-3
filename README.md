@@ -6,3 +6,4 @@
 3) [Третье](module_3_3.py)
 4) [Четвертое](module_3_4.py)
 5) [Пятое](module_3_5.py)
+6) [Hard](module_3_hard.py)
